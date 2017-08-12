@@ -7,3 +7,5 @@ A bad replacement for cabal/stack, with the goals of speed and simplicity, aimed
 * Now run `shark run name_of_exe -- my arguments` or `shark run Name.Of.Module -- my arguments`
 
 Compared to `stack build project --exec="name_of_exe my arguments"` you should notice that it's faster.
+
+The name `shark` was chosen as it is a rearrangement of `stack`, `cabal` and `shake`, and is also a very efficient apex predator. Plus my wife loves sharks.
